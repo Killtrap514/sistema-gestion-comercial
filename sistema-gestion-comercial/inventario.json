@@ -1,0 +1,9 @@
+[
+    {
+        "fecha": "2026-11-04 21:07:11",
+        "codigo_producto": "001",
+        "tipo_movimiento": "SALIDA/VENTA",
+        "cantidad": 3,
+        "descripcion": "Venta realizada - Factura V-0001"
+    }
+]
